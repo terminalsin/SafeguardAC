@@ -1,0 +1,11 @@
+main: co.ghast.safeguardac.SafeGuard
+name: SafeGuard
+version: 1.0 PRE
+author: TheBigs67/Ghast
+softdepend: [Citizens]
+commands:
+  safeguard:
+    aliases: [sg, safeg]
+    description: 'Runs the SafeGuard Anticheat command!'
+  report:
+  alerts:
