@@ -19,9 +19,9 @@ public class License {
     private SafeGuard instance = SafeGuard.getInstance();
     private Plugin plugin;
     private String mode;
-    private String site = "ghast.co"; // this is the website it is hosted on
-    private String storecode = "fv0lCsb5iDkN6a6"; // this is the storecode, it is used to validate the proper ownership of the website
-    private String sku = "1151";
+    private String site = "0000// this is the website it is hosted on
+    private String storecode = "0000// this is the storecode, it is used to validate the proper ownership of the website
+    private String sku = "0000
     private int activation_id;
     public static FileConfiguration getConfig = SafeGuard.instance.getConfig();
     // checking if it's working with floobits. It is damnNNNNNN
